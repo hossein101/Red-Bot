@@ -237,7 +237,7 @@ function create_config( )
     about_text = [[Red-Bot v4
 An advanced administration bot based on TG-CLI written in Lua
 
-https://github.com/hossein101/TeleSeed/
+https://github.com/hossein101/redbot/
 
 Admins:
 @XxX_B_A_D_B_O_Y_XxX
